@@ -4,6 +4,7 @@ const THIRTEEN = 13;
 const THIRTEEN_FUZZ = 0.5;
 
 var thirteenStrings = [
+    "42", // Basicly the answer of life, so it must be 13 thirteen as well
     "xiii", // Roman numeral 13
     "1️⃣3️⃣", // emoji sequence of 1 and 3
   
